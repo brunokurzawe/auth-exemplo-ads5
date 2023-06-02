@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "senactestes",
+  "private_key_id": "ee96198ef361d3d0963d34de6ce8b3ba32679d2a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCsTSA2zkevP0tN\nbCbImJT814rl1alMj1cM0v73exASHzGH27QH2TWfyYWzhiBDA5PCpwftnxdny8IG\nzVeGX6a77DOngep34x0xD2WfgbaVLTIo4wa4kp5pA7CGJ/q0S9u4SYQa8fm3LZv3\nZ8oomzJaAWGXC/FmDrs+Dsm4oa0y602vm+fwPlpaw/TxXigEvV4SjmuehR9YKZa1\nOYvt2yUfrTN789PyOQp6qDUzUm3/YWovgo8kzTAXDG9xHA4PpAPJ7vgnwA1fbUgR\n0FMYKHxKEpTpT74+KNoBO5mqneCZY2RDO2fsqhfSNnyIA4Yoz5bTSEJyII9igVWA\nNqE9wZpZAgMBAAECggEANEnJk2hBX+D86LeAA5Mub5a3y6zuDlJXsAgeIRuDEoTN\n4rVdap5TxDSDcyoqgzvELSfEY6vKjhDLRoYtYBWKA3CYcmaeMZjGRJuwEtpp/tZy\n6O6QnRW9pg/dE7FxRyLYQJJq2USCrEDWmpuwQWdrvd26cHzK2tZwo1IYjIPgDFnV\nuG7sCswWrbeAqAVuJKRLwaP6vZ57c0/NwP3oyHwUZGmGVbmtIMf+gQEKMqARxF9J\nF1sgqA1k6IEn3vz0p3xCIDz1/zewN+hEFymyVpOJQB748LlLJ4S0rOD8l3koYM4j\n1uJWZetsb3I/zf/lAbcbrB5ZqoxqY1tkqBaxMboImwKBgQDYMEUOunZT0RT2R+So\nm4ZrhUscMC8uK7bxahH6ZkrIMgTDy+jn2jcbmLkMBS/IuMbEBhyJLmZiq7RdSt2s\nvg0o/zItLmvK8geJ13SAS/AYmBi7f7TxG7DDRt9n7Zo3q1aekri76gVv5RiZezYt\nDkkyuyL+ajQZ6Ml6O419fWcPRwKBgQDMB+MyLuzqk5EWwE7YUl44c+VmQf7+ET13\nFISt4yyLST3ZNqy43wQpp7BerFH4UzyviXbO0vIWlxMzv8/70bdFT+7uiUwhvP8h\nIq8PA8bCgAmAI0102ylN/4szzF+fxAKvcmBM+Y00mnb9CpRGS+s61Lq8QsxMs13/\nozmb0FMZXwKBgAgfGBkLjDJt4lm2LbLf1NbpNP8kGEGlxsOe9nnvqdOHfYJVgLRl\nEDjrLdhzwW3K8zyd9ih5I8OFK8ttapJ4uUnW/G2SFt6S5RGalHfVYnmqDRPOImAE\naEmNugrPdEGvIBvo6yO0EOw5MQljBY//v2Q2f4QLPVXT1u3Omuwh7+M1AoGBAJfW\ndtnt2hpoX11TGFocUkoo1dtX2fAx3FA2UNcnbQrrIr/31GpwbaSiSrrp+saXC16H\nKoeYrNjq7Tthz+JTm9RVPDcArkudXzDFownFgbFVn7xgiVAhmYeWWX3e5nr7YBQ5\nRjmCrfcrzMlbiiUWcqSBk8Zu36NlCNsqGcE/M9h5AoGBAK5w44ORUYDMMEszPCAr\nNoo8eutzHGJknwCKngqECZHX/LMhXFTGBNiG5pH1W/MWzu8esmH+m+sihE1cMNPt\nYeWCn5TLZZtaMUu4N+j0Pd7Vgz4srSzd42KOTKL1yQvZwT9T4yp3UU9r8pq0lK43\njPJRLAUHiCWywJWfvoCgZbjZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "senac-778@senactestes.iam.gserviceaccount.com",
+  "client_id": "109185104364137435945",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/senac-778%40senactestes.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
